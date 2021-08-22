@@ -1,4 +1,4 @@
-# OpenWrt packages feed
+# OpenWrt custom packages feed
 
 ## Usage
 
@@ -19,3 +19,7 @@ To install all its package definitions, run:
 
 SPDX-License-Identifier: [GPL-2.0-or-later](https://spdx.org/licenses/GPL-2.0-or-later.html)
 
+## Reference
+
+- [OpenWrt SDK](https://openwrt.org/docs/guide-developer/using_the_sdk)
+- [OpenWrt Buildroot – Installation](https://openwrt.org/docs/guide-developer/build-system/install-buildsystem)
